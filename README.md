@@ -2,7 +2,9 @@
 
 ## Download
 ![Music template](music-template.streamDeckProfile?raw=true "Music Template")
+
 ![Rekordbox template](rekordbox.streamDeckProfile?raw=true "Rekordbox Template")
+
 
 ## Features
 ### Apple Music Playlist Scripts
