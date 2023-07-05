@@ -37,7 +37,7 @@ Note: your configuration will be a blank starter layout and won’t have my fold
 
 
 ### Rekordbox Export Mode Macros
-![Rekordbox Macro Screenshot](Cscreenshots/rekordbox-preview.png?raw=true "Rekordbox Macro Screenshot")
+![Rekordbox Macro Screenshot](screenshots/rekordbox-preview.png?raw=true "Rekordbox Macro Screenshot")
 
 
 ## Prerequisites
