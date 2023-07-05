@@ -33,7 +33,7 @@
 ## Screenshots
 ### Apple Music Playlist mover
 Note: your configuration will be a blank starter layout and won’t have my folders and names
-![Music playlist view](screenshots/playlist-preview.png?raw=true "Music playlist Screenshot)
+![Music playlist view](screenshots/playlist-preview.png?raw=true "Playlist Screenshot")
 
 
 ### Rekordbox Export Mode Macros
