@@ -50,6 +50,7 @@ Note: your configuration will be a blank starter layout and won’t have my fold
 ## Setup 
 - Install OSAScript host plugin from the Elgato App Store
 	- OSAScript
+ 
 ![OSAScript](screenshots/osa-plugin.png?raw=true "OSA plugin")
 - You will be prompted to allow automation permission to Elgato Stream Deck, or you can add it manually from System Preferences
 ![Music permissions](screenshots/music-permissions.png?raw=true "Music permissions")
