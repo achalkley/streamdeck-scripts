@@ -1,5 +1,11 @@
 # Streamdeck Music Tagging & Rekordbox Workflow
 
+## Download
+![Music template](/music-template.streamDeckProfile?raw=true "Music Template")
+
+![Rekordbox template](/rekordbox.streamDeckProfile?raw=true "Rekordbox Template")
+
+
 ## Features
 ### Apple Music Playlist Scripts
 - Put a track in a playlist of your choosing with a single button press
@@ -33,7 +39,7 @@
 ## Screenshots
 ### Apple Music Playlist mover
 Note: your configuration will be a blank starter layout and won’t have my folders and names
-![Music playlist view](screenshots/playlist-preview.png?raw=true "Music playlist Screenshot)
+![Music playlist view](screenshots/playlist-preview.png?raw=true "Playlist Screenshot")
 
 
 ### Rekordbox Export Mode Macros
@@ -50,6 +56,7 @@ Note: your configuration will be a blank starter layout and won’t have my fold
 ## Setup 
 - Install OSAScript host plugin from the Elgato App Store
 	- OSAScript
+ 
 ![OSAScript](screenshots/osa-plugin.png?raw=true "OSA plugin")
 - You will be prompted to allow automation permission to Elgato Stream Deck, or you can add it manually from System Preferences
 ![Music permissions](screenshots/music-permissions.png?raw=true "Music permissions")
@@ -82,6 +89,7 @@ Note: your configuration will be a blank starter layout and won’t have my fold
 - To customise your buttons, I recommend these icon packs
 	- Apple SF Symbols Monochrome
 	- Palette - The Simple Colour Pack
+ 
 ![SF monochrome](screenshots/sf-monochrome.png?raw=true "SF monochrome")
 ![Palette](screenshots/palette.png?raw=true "Palette")
 
