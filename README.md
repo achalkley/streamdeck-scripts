@@ -1,9 +1,9 @@
 # Streamdeck Music Tagging & Rekordbox Workflow
 
 ## Download
-![Music template](music-template.streamDeckProfile?raw=true "Music Template")
+![Music template](/music-template.streamDeckProfile?raw=true "Music Template")
 
-![Rekordbox template](rekordbox.streamDeckProfile?raw=true "Rekordbox Template")
+![Rekordbox template](/rekordbox.streamDeckProfile?raw=true "Rekordbox Template")
 
 
 ## Features
