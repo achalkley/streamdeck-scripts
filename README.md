@@ -1,9 +1,9 @@
 # Streamdeck Music Tagging & Rekordbox Workflow
 
 ## Download
-![Music template](/music-template.streamDeckProfile?raw=true "Music Template")
+[⬇️ &nbsp; Music template](/music-template.streamDeckProfile?raw=true "Music Template")
 
-![Rekordbox template](/rekordbox.streamDeckProfile?raw=true "Rekordbox Template")
+[⬇️ &nbsp; Rekordbox template](/rekordbox-template.streamDeckProfile?raw=true "Rekordbox Template")
 
 
 ## Features
@@ -34,7 +34,7 @@
 - Play/pause loaded track
 - Beat jump by currently selected amount
 - Undo/redo
--  Toggle key for Rekordbox/Music profile
+- Toggle key for Rekordbox/Music profile
 
 ## Screenshots
 ### Apple Music Playlist mover
@@ -58,7 +58,7 @@ Note: your configuration will be a blank starter layout and won’t have my fold
 	- OSAScript
  
 ![OSAScript](screenshots/osa-plugin.png?raw=true "OSA plugin")
-- You will be prompted to allow automation permission to Elgato Stream Deck, or you can add it manually from System Preferences
+- You will be prompted to allow music automation permission to Elgato Stream Deck, or you can add it manually from System Preferences
 ![Music permissions](screenshots/music-permissions.png?raw=true "Music permissions")
 
 - Elgato streamdeck also needs System Automation permission granted
@@ -67,8 +67,8 @@ Note: your configuration will be a blank starter layout and won’t have my fold
 - Import the starter profiles from the streamdeck profile settings window
 
 ### Set up your playlist names
-- In the streamdeck software, click into one of the playlist buttons
-- At the top of the “Script (Inline)” box, edit the playlist name in between the quote marks. It must match the playlist name exactly, or you will see an error dialogue when you push the button.
+- In the streamdeck software, click on one of the playlist buttons
+- At the top of the “Script (Inline)” box, edit the playlist name in between the quote marks. It must match the playlist name exactly, or you will see an error dialogue from Music when you push the button.
 ![Playlist editing](screenshots/playlist-editing.png?raw=true "Playlist editing")
 - Customise the button label and icon as you see fit. The label doesn’t have to match
 - Copy and paste your button, editing the `playListName` variable for each one
@@ -93,7 +93,7 @@ Note: your configuration will be a blank starter layout and won’t have my fold
 ![SF monochrome](screenshots/sf-monochrome.png?raw=true "SF monochrome")
 ![Palette](screenshots/palette.png?raw=true "Palette")
 
-## Extending it further & support
+## Extending it & support
 - I’ve also included the applescripts in compiled or uncompiled form so you can edit them with Script Editor and browse the logic
 - I would welcome contributions to make this prettier or add extra functionality - feel free to fork or raise issues and I’ll do my best to help out
 - I will make updates when I can if a future macOS update breaks it
